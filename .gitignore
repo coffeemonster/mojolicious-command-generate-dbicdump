@@ -1,0 +1,15 @@
+*.swp
+*.tar.gz
+.lwpcookies
+Build
+Build.bat
+MYMETA.*
+Makefile
+Makefile.old
+Mojolicious-Command-generate-dbicdump-*
+README.pod
+_build*
+blib*
+cover_db
+pm_to_blib*
+pod2htm*.tmp
